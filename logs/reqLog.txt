@@ -11,3 +11,27 @@
 20221103	15:25:48	57ddc6c3-a893-4d4d-ac96-c13db5f5a2aa	/img/img1.jpg	GET
 20221103	15:25:57	d7d46f8c-d585-4cb4-9a18-50f7a61d8db9	/	GET
 20221103	15:25:57	fbb3aa23-a48b-4458-af08-5dc0c476d7b3	/css/style.css	GET
+20221104	12:31:10	b6503be6-d188-47f5-b5b4-fb361dcb81f2	GET	undefined	/
+20221104	12:31:10	ca567de0-4af4-4106-bd25-ae97150fa120	GET	undefined	/css/style.css
+20221104	12:34:09	29f082d4-7b74-4eef-ae7e-289c3f4d9126	GET	undefined	/
+20221104	12:34:09	ead5eeb7-7796-4a6a-8db3-01da5f491c78	GET	undefined	/css/style.css
+20221104	13:22:51	c38bf757-8eaa-4f95-b23a-5e65e77d812b	OPTIONS	https://www.google.com	/
+20221104	13:22:51	ef0a01ce-1490-4aab-8c06-419f73e624b9	GET	https://www.google.com	/
+20221104	13:39:02	0b5a32e9-ccf9-4a49-96f7-c21467e97d1c	OPTIONS	https://www.google.com	/
+20221104	13:39:02	988e9c8c-4d9f-46b5-a0a8-8b7c94ccfb04	GET	https://www.google.com	/
+20221104	13:39:12	74d5adf1-90f8-4b39-847b-ab7237c38141	OPTIONS	https://www.google.com	/
+20221104	13:39:12	f3827272-a6e5-404a-ac71-87c10d4088c6	GET	https://www.google.com	/
+20221104	17:40:44	85c68f37-c936-42dd-b9ea-bd671f95e5d5	GET	undefined	/
+20221104	17:40:44	ecbe1a0e-d6db-4cff-bff3-2927c3385223	GET	undefined	/favicon.ico
+20221107	16:12:09	f9ddc365-55d0-49d4-a524-00f2bbb75d00	GET	undefined	/
+20221107	16:12:10	2bc4c0f6-33b1-4abe-b6b7-068e7287ec78	GET	undefined	/favicon.ico
+20221107	16:12:56	bab9a6c4-2ff5-43ad-b338-cb92eb06c74e	GET	undefined	/
+20221107	16:12:56	670fa742-2936-4929-8972-22dec91d934c	GET	undefined	/css/style.css
+20221107	16:12:56	3fd3bfe1-b40c-4838-8611-75847c89deaf	GET	undefined	/favicon.ico
+20221107	16:14:10	48c696d5-bc9b-42a9-8e7d-138cf9159fba	GET	undefined	/adsa
+20221107	16:14:10	3e235538-721b-4513-8aa1-b6c8c256d6fb	GET	undefined	/css/style.css
+20221107	16:37:50	81fe63de-463a-4932-8a53-603326b22e67	POST	undefined	/
+20221107	16:37:55	65a404b5-2186-42eb-a1d8-ffde628bf360	GET	undefined	/
+20221107	16:40:34	ee203902-efcc-43ee-b02d-c9925a1c2784	GET	undefined	/dasd
+20221107	16:40:47	ecc16c1c-e323-4436-9d00-6ed851e3679f	GET	undefined	/dasd
+20221107	16:40:58	79401dca-8b9e-4eca-8f31-e4a2795c22b7	GET	undefined	/dasd

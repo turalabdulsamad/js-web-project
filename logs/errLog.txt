@@ -1,1 +1,5 @@
 20221103	15:25:05	a831c99f-5ef6-4246-870d-6d0794fea98a	TypeError	fsPromises.readFil is not a function
+20221107	16:12:09	4b32ee1d-2da4-461f-81a7-43bd50a928bb	Error: Not allowed by CORS
+20221107	16:12:10	550764a9-21ac-4576-99c5-0167ba0bd432	Error: Not allowed by CORS
+20221107	16:37:50	1aa6e507-42fc-4d88-a1d6-90514d75c5e9	ReferenceError: sendFile is not defined
+20221107	16:40:34	504786fe-d29e-4faf-ad9c-e242a4caa123	ReferenceError: sendFile is not defined
