@@ -61,7 +61,7 @@ const deleteEmployee = (req, res) => {
   );
 
   if (!employee) {
-    return res.status.json({
+    return res.status(204).json({
       message: `Employee ID ${req.body.id} not found`,
     });
   }

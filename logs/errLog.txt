@@ -3,3 +3,4 @@
 20221107	16:12:10	550764a9-21ac-4576-99c5-0167ba0bd432	Error: Not allowed by CORS
 20221107	16:37:50	1aa6e507-42fc-4d88-a1d6-90514d75c5e9	ReferenceError: sendFile is not defined
 20221107	16:40:34	504786fe-d29e-4faf-ad9c-e242a4caa123	ReferenceError: sendFile is not defined
+20221110	17:06:58	0b962584-71d4-4ffb-8438-394c75e14c33	TypeError: res.status.json is not a function
