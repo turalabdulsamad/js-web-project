@@ -12,7 +12,8 @@ const corsOptions = require("./config/corsOptions")
 const cookieParser = require('cookie-parser');
 const credentials = require("./middleware/credentials");
 const mongoose = require('mongoose')
-const connectDB = require('./config/dbConn')
+const connectDB = require('./config/dbConn');
+const { request } = require('http');
 const PORT = process.env.PORT || 3500;
 
 connectDB()
@@ -33,6 +34,7 @@ app.use('/refresh',require('./routes/refresh'))
 app.use('/logout',require('./routes/logout')) 
 
 app.use(verifyJWT) 
+app.use('/users',require('./routes/api/users'))
 app.use("/employees",require('./routes/api/employees'))
 
 app.all("*", (req, res) => {

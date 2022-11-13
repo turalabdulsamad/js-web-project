@@ -6,3 +6,4 @@
 20221110	17:06:58	0b962584-71d4-4ffb-8438-394c75e14c33	TypeError: res.status.json is not a function
 20221110	22:57:15	75bcb2da-64b9-4d78-9dbb-4878416f795d	Error: Not allowed by CORS
 20221110	22:58:40	83a74fcc-d15a-47d5-9e37-7571194606bc	Error: Not allowed by CORS
+20221113	20:01:16	3145295b-4df3-4b20-af67-cd58084ac459	SyntaxError: Unexpected token } in JSON at position 50
